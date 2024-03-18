@@ -1,4 +1,4 @@
-this repository consistes of the ffallowing codes
+this repository consistes of the fallowing codes
 
 1. Write a java program code how to do cloning, let us take a class Organization, which has properties like organizationCode, organizationName and organizationAddress, and take method to print the object details.
  
